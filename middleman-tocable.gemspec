@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["mateuyabar@mateuyabar.com"]
 
   spec.summary       = %q{TOC generator for Middleman.}
-  spec.homepage      = "https://mateuyabar.com"
+  spec.homepage      = "https://github.com/mateuyabar/middleman-tocable"
   spec.license       = "MIT"
 
 
